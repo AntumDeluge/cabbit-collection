@@ -1,5 +1,9 @@
 ### Cabbit Art Collection
 
+![Static Preview](preview.png)
+![Animated Preview](preview.gif)
+*Lyuba character by Svetlana Kushnariova*
+
 #### Description:
 
 A collection of game art assets by, or based on work by, [Svetlana Kushnariova (Cabbit)](https://opengameart.org/user/15048).
