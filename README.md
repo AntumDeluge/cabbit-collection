@@ -28,4 +28,7 @@ Unless otherwise specified, all artwork is licensed under [OpenGameArt.org Attri
   - [Original bases by Cabbit](https://opengameart.org/node/24944)
   - [Reworks by diamondmgirl](https://opengameart.org/node/67861)
   - [Cabbit Bases Collection by AntumDeluge](https://opengameart.org/node/79237)
-  
+
+### Notes:
+
+Assets with filenames ending with "v" plus a number indicate an older version of the image/work.
