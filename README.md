@@ -10,7 +10,7 @@ A collection of game art assets by, or based on work by, [Svetlana Kushnariova (
 
 ### Licensing:
 
-Unless otherwise specified, all artwork is licensed under [OpenGameArt.org Attribution (OGA BY) version 3.0](LICENSE.txt) or later. OGA BY explicitely allows re-licensing under [Creative Commons Attribution (CC BY)](docs/other-licenses/CC-BY-3.0.txt).
+Unless otherwise specified, all artwork is licensed under [OpenGameArt.org Attribution (OGA BY) version 3.0](LICENSE.txt) or later. OGA BY explicitly allows re-licensing under [Creative Commons Attribution (CC BY)](docs/other-licenses/CC-BY-3.0.txt).
 
 ### Links:
 
