@@ -2,6 +2,7 @@ Next:
 - Separated outfit sprites into sub-directories.
 - Renamed "healer" sprites to "cleric"
 - Extracted more outfit parts.
+- Created more recolors.
 
 0.4
 - Added more outfit recolors.
