@@ -3,6 +3,7 @@ Next:
 - Renamed "healer" sprites to "cleric"
 - Extracted more outfit parts.
 - Created more recolors.
+- Created townfolk-child-m-003 from townfolk-child-m-002.
 
 0.4
 - Added more outfit recolors.
