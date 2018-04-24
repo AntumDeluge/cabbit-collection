@@ -23,7 +23,20 @@ Links:
   - OpenGameArt.org page: https://opengameart.org/node/79804
   - For links to Cabbit's & diamonddmgirl's submissions, see "sources.md" file."
 
-SOURCES="### Cabbit collection sources:
+SOURCES="### Cabbit Collection Sources:
+
+<table style=\"border: 0px;\">
+  <tr style=\"border: 0px;\">
+    <td style=\"border: 0px; vertical-align: top; text-align: center;\">
+      ![Static Preview](preview.png)
+    </td>
+    </tr>
+    <tr style=\"border: 0px;\">
+    <td style=\"border: 0px; vertical-align: top; text-align: center;\">
+      ![Animated Preview](preview.gif)
+    </td>
+  </tr>
+</table>
 
 - (OGA BY 3.0 / CC BY 3.0)
   - [24x32 Black Character Pack](https://opengameart.org/node/72198) by Cabbit & diamonddgirl
