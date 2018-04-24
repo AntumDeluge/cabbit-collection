@@ -1,9 +1,10 @@
-Next:
+0.5:
 - Separated outfit sprites into sub-directories.
 - Renamed "healer" sprites to "cleric"
 - Extracted more outfit parts.
 - Created more recolors.
 - Created townfolk-child-m-003 from townfolk-child-m-002.
+- Removed CC BY licensed Pepper&Carrot sprites & facesets.
 
 0.4
 - Added more outfit recolors.
