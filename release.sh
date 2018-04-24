@@ -54,7 +54,7 @@ if [ ! -z "${VERSION}" ]; then
 	cp "docs/other-licenses/CC-BY-3.0.txt" "TEMP/LICENSE-CC-BY-3.0.txt"
 
 	cd "art"
-	zip -r "../${ZIP}" ./ -x "*.DS_Store" -x "*.db"
+	zip -r "../${ZIP}" ./ -x "/originals*" "*.DS_Store" "*.db"
 	cd "../TEMP"
 	zip -r "../${ZIP}" ./
 	cd "../"
